@@ -1,0 +1,132 @@
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\appsettings.Development.json
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\appsettings.json
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\CatCollarServer.exe
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\CatCollarServer.deps.json
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\CatCollarServer.runtimeconfig.json
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\CatCollarServer.runtimeconfig.dev.json
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\CatCollarServer.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\ref\CatCollarServer.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\CatCollarServer.pdb
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\Microsoft.OpenApi.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\NAudio.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\NAudio.Asio.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\NAudio.Core.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\NAudio.Midi.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\NAudio.Wasapi.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\NAudio.WinForms.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\NAudio.WinMM.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.csprojAssemblyReference.cache
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.AssemblyInfoInputs.cache
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.AssemblyInfo.cs
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.MvcApplicationPartsAssemblyInfo.cs
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.MvcApplicationPartsAssemblyInfo.cache
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\staticwebassets\CatCollarServer.StaticWebAssets.Manifest.cache
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\staticwebassets\CatCollarServer.StaticWebAssets.xml
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\scopedcss\bundle\CatCollarServer.styles.css
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.RazorTargetAssemblyInfo.cache
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.csproj.CopyComplete
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\ref\CatCollarServer.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.pdb
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\0\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.genruntimeconfig.cache
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\appsettings.Development.json
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\appsettings.json
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\CatCollarServer.exe
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\CatCollarServer.deps.json
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\CatCollarServer.runtimeconfig.json
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\CatCollarServer.runtimeconfig.dev.json
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\CatCollarServer.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\ref\CatCollarServer.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\CatCollarServer.pdb
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\Microsoft.OpenApi.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\NAudio.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\NAudio.Asio.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\NAudio.Core.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\NAudio.Midi.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\NAudio.Wasapi.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\NAudio.WinForms.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\NAudio.WinMM.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.csprojAssemblyReference.cache
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.AssemblyInfoInputs.cache
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.AssemblyInfo.cs
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.MvcApplicationPartsAssemblyInfo.cs
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.MvcApplicationPartsAssemblyInfo.cache
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\staticwebassets\CatCollarServer.StaticWebAssets.Manifest.cache
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\staticwebassets\CatCollarServer.StaticWebAssets.xml
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\scopedcss\bundle\CatCollarServer.styles.css
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.RazorTargetAssemblyInfo.cache
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.csproj.CopyComplete
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\ref\CatCollarServer.dll
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.pdb
+D:\Program Files (x86)\ДИПЛОМ!\Спроби\на чистку\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.genruntimeconfig.cache
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\appsettings.Development.json
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\appsettings.json
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\CatCollarServer.exe
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\CatCollarServer.deps.json
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\CatCollarServer.runtimeconfig.json
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\CatCollarServer.runtimeconfig.dev.json
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\CatCollarServer.dll
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\ref\CatCollarServer.dll
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\CatCollarServer.pdb
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\Microsoft.OpenApi.dll
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\NAudio.dll
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\NAudio.Asio.dll
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\NAudio.Core.dll
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\NAudio.Midi.dll
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\NAudio.Wasapi.dll
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\NAudio.WinForms.dll
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\NAudio.WinMM.dll
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.csproj.AssemblyReference.cache
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.AssemblyInfoInputs.cache
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.AssemblyInfo.cs
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.MvcApplicationPartsAssemblyInfo.cs
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.MvcApplicationPartsAssemblyInfo.cache
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\staticwebassets\CatCollarServer.StaticWebAssets.Manifest.cache
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\staticwebassets\CatCollarServer.StaticWebAssets.xml
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\scopedcss\bundle\CatCollarServer.styles.css
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.RazorTargetAssemblyInfo.cache
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.csproj.CopyComplete
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.dll
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\ref\CatCollarServer.dll
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.pdb
+D:\Program Files (x86)\ДИПЛОМ!\КІНЦЕВЕ!!!\final\Михайлів Андрій. Source\CatCollarServer\CatCollarServer\obj\Debug\net5.0-windows\CatCollarServer.genruntimeconfig.cache

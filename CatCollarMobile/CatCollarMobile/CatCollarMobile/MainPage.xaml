@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CatCollarMobile.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="16" CornerRadius="0">
+            <Label Text="Cat collar" HorizontalTextAlignment="Center" TextColor="White" FontSize="Title"/>
+        </Frame>
+        <Grid Margin="10,5,0,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.4*" />
+                <ColumnDefinition Width="0.4*" />
+                <ColumnDefinition Width="0.2*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40" />
+                <RowDefinition Height="200" />
+                <RowDefinition Height="50" />
+            </Grid.RowDefinitions>
+            <Picker x:Name="Collars" Title="Collars" Grid.Row="0" Grid.Column="0"/>
+            <Label FontSize="40" HorizontalTextAlignment="Center" Grid.ColumnSpan="3" Grid.Row="2">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <FormattedString.Spans>
+                            <Span x:Name="Result" Text="Choose collar" TextColor="Gray"/>
+                        </FormattedString.Spans>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+        </Grid>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,28 @@
+D:\Dyplom\0\CatCollarMobile\CatCollarMobile\CatCollarMobile\bin\Debug\netstandard2.0\CatCollarMobile.deps.json
+D:\Dyplom\0\CatCollarMobile\CatCollarMobile\CatCollarMobile\bin\Debug\netstandard2.0\CatCollarMobile.dll
+D:\Dyplom\0\CatCollarMobile\CatCollarMobile\CatCollarMobile\bin\Debug\netstandard2.0\ref\CatCollarMobile.dll
+D:\Dyplom\0\CatCollarMobile\CatCollarMobile\CatCollarMobile\bin\Debug\netstandard2.0\CatCollarMobile.pdb
+D:\Dyplom\0\CatCollarMobile\CatCollarMobile\CatCollarMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Dyplom\0\CatCollarMobile\CatCollarMobile\CatCollarMobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Dyplom\0\CatCollarMobile\CatCollarMobile\CatCollarMobile\obj\Debug\netstandard2.0\CatCollarMobile.AssemblyInfoInputs.cache
+D:\Dyplom\0\CatCollarMobile\CatCollarMobile\CatCollarMobile\obj\Debug\netstandard2.0\CatCollarMobile.AssemblyInfo.cs
+D:\Dyplom\0\CatCollarMobile\CatCollarMobile\CatCollarMobile\obj\Debug\netstandard2.0\CatCollarMobile.csproj.CoreCompileInputs.cache
+D:\Dyplom\0\CatCollarMobile\CatCollarMobile\CatCollarMobile\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Dyplom\0\CatCollarMobile\CatCollarMobile\CatCollarMobile\obj\Debug\netstandard2.0\CatCollarMobile.dll
+D:\Dyplom\0\CatCollarMobile\CatCollarMobile\CatCollarMobile\obj\Debug\netstandard2.0\ref\CatCollarMobile.dll
+D:\Dyplom\0\CatCollarMobile\CatCollarMobile\CatCollarMobile\obj\Debug\netstandard2.0\CatCollarMobile.pdb
+D:\Dyplom\0\CatCollarMobile\CatCollarMobile\CatCollarMobile\obj\Debug\netstandard2.0\CatCollarMobile.csprojAssemblyReference.cache
+D:\Dyplom\на чистку\CatCollarMobile\CatCollarMobile\CatCollarMobile\bin\Debug\netstandard2.0\CatCollarMobile.deps.json
+D:\Dyplom\на чистку\CatCollarMobile\CatCollarMobile\CatCollarMobile\bin\Debug\netstandard2.0\CatCollarMobile.dll
+D:\Dyplom\на чистку\CatCollarMobile\CatCollarMobile\CatCollarMobile\bin\Debug\netstandard2.0\ref\CatCollarMobile.dll
+D:\Dyplom\на чистку\CatCollarMobile\CatCollarMobile\CatCollarMobile\bin\Debug\netstandard2.0\CatCollarMobile.pdb
+D:\Dyplom\на чистку\CatCollarMobile\CatCollarMobile\CatCollarMobile\obj\Debug\netstandard2.0\CatCollarMobile.csprojAssemblyReference.cache
+D:\Dyplom\на чистку\CatCollarMobile\CatCollarMobile\CatCollarMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Dyplom\на чистку\CatCollarMobile\CatCollarMobile\CatCollarMobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Dyplom\на чистку\CatCollarMobile\CatCollarMobile\CatCollarMobile\obj\Debug\netstandard2.0\CatCollarMobile.AssemblyInfoInputs.cache
+D:\Dyplom\на чистку\CatCollarMobile\CatCollarMobile\CatCollarMobile\obj\Debug\netstandard2.0\CatCollarMobile.AssemblyInfo.cs
+D:\Dyplom\на чистку\CatCollarMobile\CatCollarMobile\CatCollarMobile\obj\Debug\netstandard2.0\CatCollarMobile.csproj.CoreCompileInputs.cache
+D:\Dyplom\на чистку\CatCollarMobile\CatCollarMobile\CatCollarMobile\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Dyplom\на чистку\CatCollarMobile\CatCollarMobile\CatCollarMobile\obj\Debug\netstandard2.0\CatCollarMobile.dll
+D:\Dyplom\на чистку\CatCollarMobile\CatCollarMobile\CatCollarMobile\obj\Debug\netstandard2.0\ref\CatCollarMobile.dll
+D:\Dyplom\на чистку\CatCollarMobile\CatCollarMobile\CatCollarMobile\obj\Debug\netstandard2.0\CatCollarMobile.pdb
